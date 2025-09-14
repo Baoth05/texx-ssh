@@ -1,2 +1,1 @@
-ssh-text wo bu shi
-update new
+ssh-text new text configt
